@@ -10,7 +10,10 @@ The system manages:
 - Cumulative GPA calculation
 - Pass/Fail Status based on GPA
 
-Sample output displays student information alongside their course results and cumulative performance.
+
+
+## 📋 Sample Output 
+displays student information alongside their course results and cumulative performance.
 
 ![console based online student result management](https://github.com/user-attachments/assets/fce3ac1d-204b-409e-8275-9977f3108b0d)
 
@@ -23,9 +26,5 @@ Sample output displays student information alongside their course results and cu
 - Determine Pass/Fail status:
   - **GPA >= 2.0** → Pass
   - **GPA < 2.0** → Fail
-- Display all details neatly in console output
 
----
-
-## 📋 Sample Output
 
