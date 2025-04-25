@@ -1,4 +1,4 @@
-# console-based-online-student-result-managment# Console-Based Online Student Result Management System
+# console-based-online-student-result-managment
 
 This is a **Console-Based Application** for managing and displaying students' academic results. It is designed for simplicity and operates entirely through the terminal.
 
